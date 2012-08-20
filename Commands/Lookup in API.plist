@@ -11,7 +11,7 @@
 	echo "Nothing to lookup (hint: place the cursor on a function name)"
 	exit 1
 fi
-open http://api.cakephp.org/search/$TM_CURRENT_WORD</string>
+open http://api20.cakephp.org/search/$TM_CURRENT_WORD</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>

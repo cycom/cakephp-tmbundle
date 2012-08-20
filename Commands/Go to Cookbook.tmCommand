@@ -12,7 +12,8 @@ search_param = os.environ['TM_CURRENT_WORD']
 if ('TM_SELECTED_TEXT' in os.environ):
 	search_param = os.environ['TM_SELECTED_TEXT']
 
-os.system('open "http://book.cakephp.org/search/' + search_param + '"')</string>
+os.system('open "http://book.cakephp.org/2.0/en/search.html?q=' + search_param + '"')
+</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>

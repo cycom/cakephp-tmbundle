@@ -43,6 +43,7 @@
 			<string>clearCache</string>
 			<string>codeBlock</string>
 			<string>COMPONENTS</string>
+			<string>combine</string>
 			<string>config</string>
 			<string>CONFIGS</string>
 			<string>contentTag</string>
@@ -75,6 +76,7 @@
 			<string>execute</string>
 			<string>exists</string>
 			<string>extract</string>
+			<string>fetch</string>
 			<string>field</string>
 			<string>file</string>
 			<string>fileExistsInPath</string>

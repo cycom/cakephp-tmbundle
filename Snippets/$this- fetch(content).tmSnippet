@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;?php echo \$content_for_layout; ?&gt;</string>
+	<string>&lt;?php echo \$this->fetch('content'); ?&gt;</string>
 	<key>name</key>
-	<string>$content_for_layout</string>
+	<string>\$this->fetch('content');</string>
 	<key>scope</key>
 	<string>text.html.php.cake</string>
 	<key>tabTrigger</key>
